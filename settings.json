@@ -1,0 +1,9 @@
+{
+  "min_tile_size": 512,
+  "tile_ratio": 2,
+  "map_size": [
+    7692,
+    6548
+  ],
+  "max_level": 4
+}
